@@ -1,1 +1,1 @@
-cmd /c "npm install & start"
+cmd /c "npm install & npm start"
