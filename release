@@ -1,0 +1,2 @@
+JAVA_VERSION="18.0.1.1"
+MODULES="java.base dtd java.logging java.net.http java.transaction.xa java.xml java.sql jdk.httpserver json jsoup mapdb openxliff tmxvalidator tmxserver"
